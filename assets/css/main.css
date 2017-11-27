@@ -1,5 +1,5 @@
 *{
-	background-color: green;
+	background-color: #ABE188;
 	color: #fff;
 	font-family: Arial;
 }
@@ -9,7 +9,7 @@
 .divLove{
 	width: 100%;
 	height: 14em;
-	background-color: orange;
+	background-color: #F78E69;
 	text-align: right;
 }
 h1{
@@ -35,13 +35,13 @@ h6{
 .row-about{
 	width: 100%;
 	height: 38em;
-	border: 1.2em solid orange;
+	border: 1.2em solid #F78E69;
 	border-left: none;
 	border-right:none; 
 	text-align: center; 
 }
 .container-about{
-	background-color: orange;
+	background-color: #F78E69;
 	margin-left: 50%;
 	margin-top: 10%;
 	margin-bottom: 10%;  
@@ -69,33 +69,38 @@ h6{
 .row-pictures{
 	width: 100%;
 	height: 33em;
-	border: 1.2em solid orange;
+	border: 1.2em solid #F78E69;
 	border-left: none;
 	border-right:none; 
 }
+.row-img{
+	padding-left: 10em;
+}
 .titlePictures{
 	font-size: 3em;
-	padding-top: 2em;
-	padding: 1em;
 	text-align: center;
-/*	outline: 1px solid white;*/
+	padding-top: 1em;
+	padding-bottom: 1em;
+	/*outline: 1px solid white;*/
 }
 .setImg{
 	border:0.5em solid #fff;
 }
 .panda-img3{
+	padding:0; 
 	width: 100%;
-	height: 30em;
+	height: 38em;
 	background-image: url(../img/tres.jpg);
 	filter: grayscale(100%); 
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
+	background-size: 100% 115%;
+	/*outline: 1px solid white;*/
+/*	background-repeat: no-repeat;*/
 }
 .piePagina{
 	width: 100%;
 	height: 6em;
 	text-align: right;
-	background-color: orange;
+	background-color: #F78E69;
 }
 .row-pie, .col-pie{
 	background-color: inherit;
