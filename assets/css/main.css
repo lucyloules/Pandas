@@ -52,7 +52,7 @@ h6{
 	padding-top: 1em;
 	/*padding-bottom: 1em;*/
 }
- .container-about p{
+.container-about p{
 	background-color: inherit;
 	padding: 1em;
 	font-size: 1.22em;
@@ -94,7 +94,7 @@ h6{
 	filter: grayscale(100%); 
 	background-size: 100% 115%;
 	/*outline: 1px solid white;*/
-/*	background-repeat: no-repeat;*/
+	/*	background-repeat: no-repeat;*/
 }
 .piePagina{
 	width: 100%;
@@ -110,7 +110,7 @@ h6{
 	background-color: inherit;
 	padding-top: 1em;
 	font-size: 1.5em;
-/*	outline: 1px solid red;*/
+	/*	outline: 1px solid red;*/
 }
 
 
